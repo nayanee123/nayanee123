@@ -32,6 +32,7 @@
 ## 📊 Projects
 Here are some of the projects I've worked on:
 
+##  Project 1: Anomaly-Detection
 ### [https://github.com/nayanee123/Anomaly-Detection-]
 An anomaly detection model to predict maintenance needs in industrial equipment.
 
