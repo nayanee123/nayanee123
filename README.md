@@ -38,8 +38,6 @@ An anomaly detection model to predict maintenance needs in industrial equipment.
 ### [Project 2: Sales Dashboard](https://github.com/yourusername/sales-dashboard)
 A comprehensive sales dashboard created using Tableau to visualize key sales metrics and trends.
 
-### [Project 3: Predictive Maintenance](https://github.com/yourusername/predictive-maintenance)
-An anomaly detection model to predict maintenance needs in industrial equipment.
 
 ## 📈 GitHub Stats
 <p align="center">
