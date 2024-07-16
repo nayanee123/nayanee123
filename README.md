@@ -32,7 +32,7 @@
 ## 📊 Projects
 Here are some of the projects I've worked on:
 
-### [Project 1: Customer Segmentation](https://github.com/yourusername/customer-segmentation)
+### [Project 1: Customer Segmentation](https://github.com/nayanee123/Anomoly-Detection-)
 A project that involved segmenting customers based on their purchasing behavior using clustering algorithms.
 
 ### [Project 2: Sales Dashboard](https://github.com/yourusername/sales-dashboard)
