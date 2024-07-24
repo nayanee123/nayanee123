@@ -40,6 +40,10 @@ An anomaly detection model to predict maintenance needs in industrial equipment.
 ### [https://github.com/nayanee123/credit-card-fraud-detection]
 A comprehensive sales dashboard created using Tableau to visualize key sales metrics and trends.
 
+##  Project 3: credit-card-fraud-detection-
+### [https://github.com/nayanee123/
+A comprehensive sales dashboard created using Tableau to visualize key sales metrics and trends.
+
 
 ## 📈 GitHub Stats
 <p align="center">
