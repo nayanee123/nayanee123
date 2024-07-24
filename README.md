@@ -38,16 +38,15 @@ An anomaly detection model to predict maintenance needs in industrial equipment.
 
 ##  Project 2: credit-card-fraud-detection-
 ### [https://github.com/nayanee123/credit-card-fraud-detection]
-A comprehensive sales dashboard created using Tableau to visualize key sales metrics and trends.
+Build a classification model to predict whether a transaction is fraudulent or not.
 
 ##  Project 3: -Medical-Decision-Support-System-
 ### [https://github.com/nayanee123/DocAssist-Building-Intelligent-Medical-Decision-Support-System-]
-A comprehensive sales dashboard created using Tableau to visualize key sales metrics and trends.
+Develop an intelligent medical decision support system that analyzes patient data to assist doctors in making informed decisions about the best treatment options for individual patients.
 
-##  Project 4: credit-card-fraud-detection-
-### [https://github.com/nayanee123/DocAssist-Building-Intelligent-Medical-Decision-Support-System-]
-A comprehensive sales dashboard created using Tableau to visualize key sales metrics and trends.
-
+##  Project 4: MoodforMusic
+### [https://github.com/nayanee123/MoodforMusic]
+Build an application that detects the mood of users using still images or videos and recommends music accordingly. 
 
 ## 📈 GitHub Stats
 <p align="center">
