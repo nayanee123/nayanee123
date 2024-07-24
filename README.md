@@ -37,7 +37,7 @@ Here are some of the projects I've worked on:
 An anomaly detection model to predict maintenance needs in industrial equipment.
 
 ##  Project 2: credit-card-fraud-detection-
-### [https://github.com/nayanee123/credit-card-fraud-detection-]
+### [https://github.com/nayanee123/credit-card-fraud-detection]
 A comprehensive sales dashboard created using Tableau to visualize key sales metrics and trends.
 
 
